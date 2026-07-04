@@ -1,6 +1,9 @@
 
 # Interface 2037
 
+![showcase](./static/showcase.png)
+
+
 A small on-evening project that was inspired by "Alien". A termial interface imitating Weyland-Utani "Mother" ship AI (or Sevastopol's "Apollo" - whichever you prefer better). Provides a stylized way to interact with local LLMs.
 
 ## Prerequisites
